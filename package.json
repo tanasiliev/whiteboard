@@ -1,0 +1,27 @@
+{
+  "name": "whiteboard",
+  "version": "0.0.1",
+  "description": "Simple Whiteboard Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanasiliev/whiteboard.git"
+  },
+   "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+   },
+  "author": "Atanas Iliev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanasiliev/whiteboard/issues"
+  },
+  "homepage": "https://github.com/tanasiliev/whiteboard",
+  "dependencies": {
+    "express": "^4.6.0",
+    "socket.io": "^1.0.6"
+  }
+}
