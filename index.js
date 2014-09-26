@@ -67,6 +67,7 @@ Room.prototype = {
 var createRoom = function (roomName) {
     var room = new Room(roomName);
     rooms[room.name] = room;
+	return room;
 };
 
 var rooms = {};
