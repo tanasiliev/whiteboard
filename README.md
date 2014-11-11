@@ -4,7 +4,7 @@ whiteboard
 Simple Whiteboard Example
 
 
-![contributors](http://http://i42.photobucket.com/albums/e316/tanasiliev/Apps/whiteboard_zps5dba4e44.png)
+![contributors](http://www.mccormick.com/-/media/Recipe%20Photos/McCormick/Main%20Dishes/787x426/Lemon%20Pepper%20Baked%20Chicken.ashx)
 
 
    
