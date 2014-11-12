@@ -1,12 +1,19 @@
 whiteboard
 ==========
 
-Simple Whiteboard Example
-
+multi-room realtime chat and collaborative whiteboard app
 
 ![contributors](http://i42.photobucket.com/albums/e316/tanasiliev/whiteboard_zpse281711f.png)
 
 
-   
- 
- [demo](http://simple-whiteboard.herokuapp.com) 
+###Included Libraries
+
+* Bootstrap
+* jQuery
+* express
+* socket.io
+
+
+---
+
+ [demo](http://simple-whiteboard.herokuapp.com) com) 
