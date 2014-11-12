@@ -1,7 +1,7 @@
 whiteboard
 ==========
 
-multi-room realtime chat and collaborative whiteboard app
+ A multi-room chat and collaborative whiteboard app
 
 ![contributors](http://i42.photobucket.com/albums/e316/tanasiliev/whiteboard_zpse281711f.png)
 
