@@ -16,4 +16,4 @@ multi-room realtime chat and collaborative whiteboard app
 
 ---
 
- [demo](http://simple-whiteboard.herokuapp.com) com) 
+ [demo](http://simple-whiteboard.herokuapp.com)
